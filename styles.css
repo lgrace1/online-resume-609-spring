@@ -1,0 +1,11 @@
+body {
+    background-color: #EFF0E4;
+}
+
+.container {
+    width: 900px;
+    padding: 20px;
+    margin: 40px auto;
+    background-color: #DDF5E7;
+    border-radius: 20px;
+}
