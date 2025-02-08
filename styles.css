@@ -9,3 +9,31 @@ body {
     background-color: #DDF5E7;
     border-radius: 20px;
 }
+
+h1 {
+    font-family: "PT Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+}
+
+p {
+    font-family: "PT Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+}
+
+h2 {
+    font-family: "PT Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+}
+
+h3 {
+    font-family: "PT Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
