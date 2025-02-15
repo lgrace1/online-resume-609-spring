@@ -70,7 +70,7 @@ nav ul {
     text-transform: uppercase;
     font-size: 14px;
 }
-
+/* for mobile */
 @media screen and (max-width: 576px) {
     .container {
         display: block;
