@@ -76,3 +76,7 @@ nav ul {
         flex-direction: column-reverse;
     }
 }
+
+.sidebar {
+    background-color: #EFF6FB;
+}
