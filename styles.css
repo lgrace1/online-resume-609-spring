@@ -76,7 +76,3 @@ nav ul {
         flex-direction: column-reverse;
     }
 }
-
-.sidebar headshot {
-    display: none;
-}
