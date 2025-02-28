@@ -48,7 +48,7 @@ p {
 }
 
 nav {
-    background-color: coral;
+    background-color: #FA7E61;
     padding: 5px;
     filter: drop-shadow(5px 5px 10px #F75F5F);
     position: fixed;
